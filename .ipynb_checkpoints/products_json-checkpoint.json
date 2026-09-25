@@ -1,0 +1,17 @@
+[
+ {
+  "Product Name": "Mac",
+  "Product Brand": "Apple",
+  "Product Cost": "$120"
+ },
+ {
+  "Product Name": "Charger",
+  "Product Brand": "Anker",
+  "Product Cost": "$160"
+ },
+ {
+  "Product Name": "Phone",
+  "Product Brand": "Samsung",
+  "Product Cost": "$20000"
+ }
+]
